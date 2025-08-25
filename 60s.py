@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Required parameters:
-# @wox.id wox-60s-news
-# @wox.name 每日 60 秒新闻
+# @wox.id 9425e183-c7ab-4c61-86eb-98174c6388db
+# @wox.name 每日60秒新闻
 # @wox.keywords 60s
 #
 # Optional parameters:
@@ -10,8 +10,6 @@
 # @wox.author qianlifeng
 # @wox.description 基于 https://60s.viki.moe/v2/60s 的每日新闻展示
 # @wox.minWoxVersion 2.0.0
-
-# English comments for code, per your preference.
 
 import json
 import sys
